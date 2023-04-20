@@ -24,3 +24,4 @@ int main ()
     return 0;
 }   
 //Verifica commando PUSH
+//Verifica commando PULL
